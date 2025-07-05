@@ -6,6 +6,6 @@
 
 #### Feel free to try out the Websites and share your feedback or suggestions for improvement
 
-#### Browse the available apps [here][def]
+#### Browse the available websites [here][def]
 
 [def]: #
